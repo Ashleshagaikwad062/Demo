@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+int marks[5] = {99, 86, 74, 66, 54};
+double price[3] = {98.33, 84.66, 72.44};
+cout <<marks[0]<<endl;
+cout <<marks[1]<<endl;
+cout <<marks[2]<<endl;
+cout <<marks[3]<<endl;
+cout <<marks[4]<<endl;
+return 0;
