@@ -1,2 +1,3 @@
 # Demo
-My new project Author Ashlesha Gaikwad
+My new project
+Author:- Ashlesha Gaikwad
